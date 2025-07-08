@@ -23,4 +23,4 @@ Este projeto simula um fluxo de trabalho real de negócios: priorizar ideias de 
 ## 👨‍💻 Autor
 **Maikon Silva** — [Linkedln](https://www.linkedin.com/in/maikon-silva-457b98181/)
 
-🔗 [Link para o projeto completo](COLOCAR_LINK_AQUI)
+🔗 [Link para o projeto completo](https://github.com/m4ik-crtl/Tomada-de-Decis-o-Baseada-em-Dados-Prioriza-o-de-Hip-teses-e-Teste-A-B/blob/main/Tomada%20de%20Neg%C3%B3cios%20Baseada%20em%20dados.ipynb)
